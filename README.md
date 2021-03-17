@@ -1,10 +1,13 @@
-# free software ninjas, unite & fight!
+# free software ninjas, unite & fight
+
 ![redtux-avatar.png](https://avatars.githubusercontent.com/u/1064565)
 
-## for a better world for robots, animals, and humans :heart:
+## for a better world for robots, animals, and humans 💖
 
 ***
+
 ### Imprint/Impressum
+
 * Inhaber/Owner: Pablo Hörtner
 * Umsatzsteuer-Identifikationsnummer (UID/VAT no.): ATU68287178
 * Mitglied der Wirtschaftskammer Wien (Fachgruppe Buch- und Medienwirtschaft)
