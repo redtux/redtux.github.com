@@ -1,4 +1,4 @@
-remote_theme: redtux/minimal-mistakes
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-include-cache
